@@ -1,4 +1,5 @@
-$mime="text/markdown";
-$html=<<<EOD
+<?php $html=<<<EOD
+
 # Hola, mundo!
-EOD;
+
+EOD; ?>
